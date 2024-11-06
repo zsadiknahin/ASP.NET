@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "delete";
+}
+
+<h2>delete</h2>
+@using (Html.BeginForm("delete", "Student", new { id = Model.id }, FormMethod.Post))
+{
+    <button type="submit" class="btn btn-danger">Yes</button>
+    <a href="@Url.Action("List", "Student")" class="btn btn-secondary">No</a>
+}
+

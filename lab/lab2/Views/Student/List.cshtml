@@ -1,0 +1,32 @@
+﻿
+
+
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Cgpa</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.name</td>
+            <td>@item.cgpa</td>
+            <td>
+                <a href="@Url.Action("Details", "Student", new { id = item.id })" class="btn btn-info">Details</a>
+                <a href="@Url.Action("Edit", "Student", new { id = item.id })" class="btn btn-warning">Edit</a>
+                <a href="@Url.Action("Delete", "Student", new { id = item.id })" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+
+</table>
