@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.LogoutMessage as string))
+{
+    <div class="alert alert-success text-center mt-3" style="font-weight: bold;">
+        @ViewBag.LogoutMessage
+    </div>
+}
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh; background: linear-gradient(135deg, #ff7eb3, #ff758c);">
+    <div class="card shadow-lg" style="width: 90%; max-width: 400px; border-radius: 15px; overflow: hidden;">
+        <div class="card-body p-4" style="background-color: #ffffff;">
+            <h3 class="text-center mb-4" style="color: #ff758c; font-weight: bold;">Login</h3>
+            <form method="post">
+                <div class="container my-3 p-3 rounded" style="background-color: #f9f9f9; border: 1px solid #dddddd;">
+                    <div class="mb-3">
+                        <label for="email" class="form-label" style="font-weight: bold;">Email</label>
+                        <input type="email" name="Email" id="email" class="form-control" placeholder="Enter your email" value="@ViewBag.Email" style="border-radius: 8px;" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="password" class="form-label" style="font-weight: bold;">Password</label>
+                        <input type="password" name="Password" id="password" class="form-control" placeholder="Enter your password" value="@ViewBag.Password" style="border-radius: 8px;" />
+                    </div>
+                    <div class="d-flex justify-content-center">
+                        <button type="submit" class="btn btn-primary" style="width: 50%; border-radius: 8px; font-weight: bold;">Login</button>
+                    </div>
+                    @if (TempData["msg"] != null)
+                    {
+                        <div class="alert alert-danger text-center mt-3" style="font-weight: bold;">
+                            @TempData["msg"]
+                        </div>
+                    }
+                    @if (TempData["SuccessMsg"] != null)
+                    {
+                        <div class="alert alert-success text-center mt-3" style="font-weight: bold;">
+                            @TempData["SuccessMsg"]
+                        </div>
+                    }
+                    <div class="text-center mt-3">
+                        <a href="/Register/Index" class="text-decoration-none" style="color: #ff758c; font-weight: bold;">Don't have an account?</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap JS (optional) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>

@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\student\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\student\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\student\\myenrollments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\student\\myenrollments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\student\\availablecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\student\\availablecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\enrollment\\listenrollment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\enrollment\\listenrollment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\admin\\deletecourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\admin\\deletecourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\admin\\editcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\admin\\editcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\admin\\createcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\admin\\createcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\admin\\listcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\admin\\listcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\admin\\listusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\admin\\listusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\enrollment\\deleteenrollment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\enrollment\\deleteenrollment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\views\\enrollment\\filterenrollments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\views\\enrollment\\filterenrollments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|c:\\users\\z. sadik\\source\\repos\\universitymanagementsystem\\universitymanagementsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD641-4168-4747-9AB5-313FABA779F4}|UniversityManagementSystem\\UniversityManagementSystem.csproj|solutionrelative:universitymanagementsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Student\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Student\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Student\\Dashboard.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Student\\Dashboard.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwGoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T19:55:22.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Student\\CourseDetails.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Student\\CourseDetails.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Student\\CourseDetails.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Student\\CourseDetails.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T19:53:12.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyEnrollments.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Student\\MyEnrollments.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Student\\MyEnrollments.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Student\\MyEnrollments.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Student\\MyEnrollments.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T19:52:43.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AvailableCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Student\\AvailableCourses.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Student\\AvailableCourses.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Student\\AvailableCourses.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Student\\AvailableCourses.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwGEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T19:52:01.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Auth\\AdminAccess.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Auth\\AdminAccess.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Auth\\AdminAccess.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\Auth\\AdminAccess.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:10:53.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteCourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\DeleteCourse.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Admin\\DeleteCourse.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\DeleteCourse.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Admin\\DeleteCourse.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwF0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:08:50.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditCourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\EditCourse.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Admin\\EditCourse.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\EditCourse.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Admin\\EditCourse.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:08:14.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\CreateCourse.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Admin\\CreateCourse.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\CreateCourse.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Admin\\CreateCourse.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwFEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:07:30.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\ListCourses.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Admin\\ListCourses.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\ListCourses.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Admin\\ListCourses.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:04:23.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Admin\\DeleteUser.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Admin\\DeleteUser.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:03:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwGMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:03:10.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Admin\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Admin\\CreateUser.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwGMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:02:26.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\ListUsers.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Admin\\ListUsers.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\ListUsers.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Admin\\ListUsers.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:01:49.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T17:53:28.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAoCAAAAAAAAAAAYwNgBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:42:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:41:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:41:06.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteEnrollment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Enrollment\\DeleteEnrollment.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Enrollment\\DeleteEnrollment.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Enrollment\\DeleteEnrollment.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Enrollment\\DeleteEnrollment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T17:39:43.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FilterEnrollments.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Enrollment\\FilterEnrollments.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Enrollment\\FilterEnrollments.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Enrollment\\FilterEnrollments.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Enrollment\\FilterEnrollments.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwE8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T17:16:44.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListEnrollment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Enrollment\\ListEnrollment.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Enrollment\\ListEnrollment.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Enrollment\\ListEnrollment.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Enrollment\\ListEnrollment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T17:15:58.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:02:36.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnrollmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\DTOs\\EnrollmentDTO.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\DTOs\\EnrollmentDTO.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\DTOs\\EnrollmentDTO.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\DTOs\\EnrollmentDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:59:32.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\DTOs\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\DTOs\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\DTOs\\CourseDTO.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\DTOs\\CourseDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:36:18.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T16:16:55.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:09:16.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:06:44.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv04AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:44:47.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "UniversityManagementSystem\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T15:43:01.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "UniversityManagementSystem\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-26T15:29:51.383Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:28:11.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "UniversityManagementSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Z. Sadik\\source\\repos\\UniversityManagementSystem\\UniversityManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "UniversityManagementSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:03:38.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
