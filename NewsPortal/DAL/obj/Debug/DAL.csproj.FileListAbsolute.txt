@@ -1,0 +1,14 @@
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\bin\Debug\DAL.dll
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\bin\Debug\DAL.pdb
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\obj\Debug\DAL.dll
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\obj\Debug\DAL.pdb
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\bin\Debug\DAL.dll.config
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\obj\Debug\DAL.Migrations.one.resources
+C:\Users\Z. Sadik\source\repos\WebApplication4\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
